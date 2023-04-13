@@ -14,12 +14,12 @@
   "author": "shenshuai89@qq.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shenshuai89//mydagger-ui.git"
+    "url": "https://github.com/shenshuai89/mydagger-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/shenshuai89//mydagger-ui/issues"
+    "url": "https://github.com/shenshuai89/mydagger-ui/issues"
   },
-  "homepage": "https://github.com/shenshuai89//mydagger-ui#readme",
+  "homepage": "https://github.com/shenshuai89/mydagger-ui#readme",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.21.4",
