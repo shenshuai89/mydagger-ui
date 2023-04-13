@@ -1,7 +1,6 @@
 {
   "name": "mydagger-ui",
   "version": "1.0.1",
-  "description": "vue3 components",
   "main": "index.js",
   "type": "module",
   "scripts": {
