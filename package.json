@@ -1,0 +1,30 @@
+{
+  "name": "mydagger-ui",
+  "version": "1.0.0",
+  "description": "vue3 components",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  },
+  "files": ["./lib", "./src/theme/lib"],
+  "keywords": [
+    "vue3",
+    "element-plus"
+  ],
+  "author": "shenshuai89@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.21.4",
+    "@rollup/plugin-babel": "^6.0.3",
+    "@rollup/plugin-commonjs": "21.0.0",
+    "@rollup/plugin-json": "^6.0.0",
+    "element-plus": "^2.3.3",
+    "node-sass": "^8.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-replace": "^2.2.0",
+    "rollup-plugin-scss": "^4.0.0",
+    "rollup-plugin-vue": "^6.0.0",
+    "vue": "^3.2.47"
+  }
+}

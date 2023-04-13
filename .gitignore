@@ -1,0 +1,7 @@
+*/node_modules/
+
+/lib
+*.lock
+
+/dist
+node_modules
