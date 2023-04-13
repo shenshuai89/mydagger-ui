@@ -3,5 +3,19 @@
 /lib
 *.lock
 
-/dist
 node_modules
+dist
+dist-ssr
+lib
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
